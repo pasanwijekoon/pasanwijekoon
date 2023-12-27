@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**pasanwijekoon/pasanwijekoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm pasan! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I'm enthusiastic about [your interests] and enjoy diving into [programming languages, technologies, or projects].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Technologies & Tools**
+
+- **Programming Languages:** [List of languages you work with]
+- **Frameworks & Libraries:** [List of frameworks and libraries you use]
+- **Tools:** [List of tools you use]
+
+## 🌱 **Currently Learning**
+
+I'm currently focused on mastering [topics or technologies you're learning].
+
+
+
+## 📫 **Contact**
+
+
+Feel free to explore my repositories and connect with me! 😊
