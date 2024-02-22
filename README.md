@@ -1,7 +1,7 @@
 
 # Hello, I'm pasan! 👋
 
-Welcome to my GitHub profile. I'm enthusiastic about [your interests] and enjoy diving into [programming languages, technologies, or projects].
+Welcome to my GitHub profile. I'm enthusiastic about Technology and enjoy diving into [programming languages, technologies, or projects].
 
 ## 🔧 **Technologies & Tools**
 
