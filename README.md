@@ -24,13 +24,4 @@ Feel free to explore my repositories and connect with me! 😊
 
 You can find me on the web and connect with me:
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/yourusername/)
-[<img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />](https://twitter.com/yourusername)
-[<img align="left" alt="Website" width="30px" src="https://image.flaticon.com/icons/png/512/190/190411.png" />](https://www.yourwebsite.com)
-[<img align="left" alt="Email" width="30px" src="https://image.flaticon.com/icons/png/512/324/324123.png" />](mailto:yourname@email.com)
-
-<br />
-<br />
-
-Feel free to reach out! 😊
 
